@@ -1,0 +1,34 @@
+/* some sick ass css to make this shit look fantastic */
+body{ 
+  background-color:#222; 
+	color:#CFC8B8;
+}
+
+#container{
+	margin: 0 auto; width: 1000px;
+}
+*{border-radius: 15px;}
+a{color:#3994A5;}
+h1{
+    background: none repeat scroll 0 0 #333333 !important;
+    border-bottom: 5px solid #0088CC !important;
+    height: 40px !important;
+    padding: 10px 15px !important;
+}
+.post { text-align: center; 
+	border: medium solid; 
+	border-color: #222; 
+	background-color: #333; 
+	color: white;
+	float: left;
+	width: 800px;
+	box-shadow: 10px 10px 5px #444;
+  }
+#aff{
+	text-align: left;
+	border: medium solid; 
+	border-color: #222; 
+	background-color: #333;
+	float: left;
+	}
+h1 {text-align: center;}
