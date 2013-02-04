@@ -16,6 +16,7 @@ h1{
     border-bottom: 5px solid #0088CC !important;
     height: 40px !important;
     padding: 10px 15px !important;
+    text-align: center;
 }
 #posts { 
 		width: 800px;
@@ -29,12 +30,11 @@ h1{
 	color: white;
 	width: 800px;
 	box-shadow: 10px 10px 5px #444;
-  }
+ }
 #aff{
 	text-align: left;
 	border: medium solid; 
 	border-color: #222; 
 	background-color: #333;
 	float: left;
-	}
-h1 {text-align: center;}
+}
