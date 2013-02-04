@@ -2,6 +2,8 @@
 body{ 
 	background-color:#222; 
 	color:#CFC8B8;
+	font-family: verdana;
+	font-size: 13px;
 }
 
 #container{
