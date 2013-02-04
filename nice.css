@@ -1,6 +1,6 @@
 /* some sick ass css to make this shit look fantastic */
 body{ 
-  background-color:#222; 
+	background-color:#222; 
 	color:#CFC8B8;
 }
 
@@ -15,12 +15,16 @@ h1{
     height: 40px !important;
     padding: 10px 15px !important;
 }
-.post { text-align: center; 
+#posts { 
+		width: 800px;
+		float: left;
+}
+.post { 
+	text-align: center; 
 	border: medium solid; 
 	border-color: #222; 
 	background-color: #333; 
 	color: white;
-	float: left;
 	width: 800px;
 	box-shadow: 10px 10px 5px #444;
   }
